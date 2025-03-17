@@ -2,7 +2,7 @@
 
 🌐 Governança | 🛡️ Especialista em Cibersegurança | 🚀 Inovação Segura
 
-Sou apaixonado(a) por desenvolver soluções tecnológicas que priorizem a segurança da informação, protegendo dados e sistemas em um mundo cada vez mais conectado. Minha experiência abrange [cite tecnologias relevantes, ex.: Python, JavaScript, React, Node.js], com ênfase em [especialização, ex.: desenvolvimento seguro, computação em nuvem ou análise de dados aplicada à segurança]. Busco constantemente aprendizado e inovação para enfrentar os desafios reais da cibersegurança e da governança de TI.
+Sou apaixonado(a) por desenvolver soluções tecnológicas que priorizem a segurança da informação, protegendo dados e sistemas em um mundo cada vez mais conectado. Minha experiência abrange [Python, Power BI, SIEM], com ênfase em [especialização, desenvolvimento seguro, computação em nuvem ou análise de dados aplicada à segurança]. Busco constantemente aprendizado e inovação para enfrentar os desafios reais da cibersegurança e da governança de TI.
 
 🔒 Habilidades Técnicas e Estratégicas:
 
