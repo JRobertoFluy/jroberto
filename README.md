@@ -2,6 +2,22 @@
 
 🌐 Governança | 🛡️ Especialista em Cibersegurança | 🚀 Inovação Segura
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+<body>
+    <div class="github-stats">
+        <h2>Minhas Estatísticas no GitHub</h2>
+        <!-- Card de Estatísticas Gerais -->
+        <img src="https://github-readme-stats.vercel.app/api?username=jroberto&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+        <!-- Card de Linguagens Mais Usadas -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroberto&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+    </div>
+</body>
+</html>
 Sou apaixonado(a) por desenvolver soluções tecnológicas que priorizem a segurança da informação, protegendo dados e sistemas em um mundo cada vez mais conectado. Minha experiência abrange [Python, Power BI, SIEM], com ênfase em [especialização, desenvolvimento seguro, computação em nuvem ou análise de dados aplicada à segurança]. Busco constantemente aprendizado e inovação para enfrentar os desafios reais da cibersegurança e da governança de TI.
 
 🔒 Habilidades Técnicas e Estratégicas:
