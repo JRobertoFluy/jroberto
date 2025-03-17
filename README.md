@@ -1,4 +1,4 @@
-# Olá eu sou o José Roberto
+# Olá, eu sou o José Roberto
 
 🌐 Governança | 🛡️ Especialista em Cibersegurança | 🚀 Inovação Segura
 
